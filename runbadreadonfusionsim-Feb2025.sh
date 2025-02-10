@@ -1,0 +1,12 @@
+badread simulate --reference fusionisoconstbp-Feb25.fa --quantity 5X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisoconstbp.0225.badread5x.fastq
+#badread simulate --reference fusionisomultbp-Feb25.fa --quantity 5X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisomultbp.0225.badread5x.fastq
+#badread simulate --reference fusionisonongenic-Feb25.fa --quantity 5X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisonongenic.0225.badread5x.fastq
+badread simulate --reference fusionisoconstbp-Feb25.fa --quantity 10X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisoconstbp.0225.badread10x.fastq
+#badread simulate --reference fusionisomultbp-Feb25.fa --quantity 10X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisomultbp.0225.badread10x.fastq
+#badread simulate --reference fusionisonongenic-Feb25.fa --quantity 10X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisonongenic.0225.badread10x.fastq
+badread simulate --reference fusionisoconstbp-Feb25.fa --quantity 50X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisoconstbp.0225.badread50x.fastq
+#badread simulate --reference fusionisomultbp-Feb25.fa --quantity 50X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisomultbp.0225.badread50x.fastq
+#badread simulate --reference fusionisonongenic-Feb25.fa --quantity 50X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisonongenic.0225.badread50x.fastq
+badread simulate --reference fusionisoconstbp-Feb25.fa --quantity 100X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisoconstbp.0225.badread100x.fastq
+#badread simulate --reference fusionisomultbp-Feb25.fa --quantity 100X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisomultbp.0225.badread100x.fastq
+#badread simulate --reference fusionisonongenic-Feb25.fa --quantity 100X --identity 95,99,2.5 --error_model nanopore2023 --qscore_model nanopore2023 > fusionisonongenic.0225.badread100x.fastq
